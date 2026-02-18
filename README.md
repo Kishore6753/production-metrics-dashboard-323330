@@ -1,1 +1,3 @@
-# production-metrics-dashboard-323330
+# Project Repository
+
+This is the initial README file for the project.
