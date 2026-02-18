@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/production-metrics-dashboard-323330/production_log_dashboard_frontend"
+}
